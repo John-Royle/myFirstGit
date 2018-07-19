@@ -1,12 +1,12 @@
 # myFirstGit
 
-#Project Title
+# Project Title
 
-##Project Description
+## Project Description
 
-##Install Instructions
+## Install Instructions
 
-##Run Instructions
+## Run Instructions
 
 | Weeks | Course Content |
 | --- | --- |
