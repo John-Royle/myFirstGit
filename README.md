@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 #TEST
-=======
-<<<<<<< HEAD
 #TEST TEST
->>>>>>> addingfunction
 
-=======
->>>>>>> b25578b37298ef72ddb4d9620a2345b3faa6869b
 # Project Title
 
 ## Project Description
